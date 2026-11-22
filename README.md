@@ -1,4 +1,4 @@
-# Sweety – Blood Glucose Tracker
+# Sweety â€“ Blood Glucose Tracker
 
 Sweety is a full-stack blood glucose tracking application built with React, Node.js, Express, and PostgreSQL. It allows users to securely record glucose readings, monitor daily values, and review historical reports.
 
@@ -41,30 +41,30 @@ Sweety is a full-stack blood glucose tracking application built with React, Node
 
 ```text
 sweety-glucose-tracker/
-├── api/
-│   ├── scripts/
-│   │   └── seed.js
-│   ├── sql/
-│   │   └── schema.sql
-│   ├── src/
-│   │   ├── config/
-│   │   ├── controllers/
-│   │   ├── middleware/
-│   │   ├── routes/
-│   │   ├── services/
-│   │   └── validators/
-│   ├── tests/
-│   ├── .env.example
-│   └── package.json
-├── screenshots/
-├── web/
-│   ├── public/
-│   ├── src/
-│   ├── .env.example
-│   └── package.json
-├── .gitignore
-├── package.json
-└── README.md
+â”œâ”€â”€ api/
+â”‚   â”œâ”€â”€ scripts/
+â”‚   â”‚   â””â”€â”€ seed.js
+â”‚   â”œâ”€â”€ sql/
+â”‚   â”‚   â””â”€â”€ schema.sql
+â”‚   â”œâ”€â”€ src/
+â”‚   â”‚   â”œâ”€â”€ config/
+â”‚   â”‚   â”œâ”€â”€ controllers/
+â”‚   â”‚   â”œâ”€â”€ middleware/
+â”‚   â”‚   â”œâ”€â”€ routes/
+â”‚   â”‚   â”œâ”€â”€ services/
+â”‚   â”‚   â””â”€â”€ validators/
+â”‚   â”œâ”€â”€ tests/
+â”‚   â”œâ”€â”€ .env.example
+â”‚   â””â”€â”€ package.json
+â”œâ”€â”€ screenshots/
+â”œâ”€â”€ web/
+â”‚   â”œâ”€â”€ public/
+â”‚   â”œâ”€â”€ src/
+â”‚   â”œâ”€â”€ .env.example
+â”‚   â””â”€â”€ package.json
+â”œâ”€â”€ .gitignore
+â”œâ”€â”€ package.json
+â””â”€â”€ README.md
 ```
 
 ## Prerequisites
@@ -78,7 +78,7 @@ sweety-glucose-tracker/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/syed-ibrahim-dev/sweety-glucose-tracker.git
 cd sweety-glucose-tracker
 ```
 
